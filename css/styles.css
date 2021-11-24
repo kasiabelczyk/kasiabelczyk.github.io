@@ -218,3 +218,9 @@ h1, h2, h3 {
 	column-count:         1;
 	}
   }
+
+footer a {
+    text-decoration: inherit;
+    color: inherit;
+    margin: 10px;
+}
